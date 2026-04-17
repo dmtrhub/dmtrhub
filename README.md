@@ -1,33 +1,72 @@
+# Hi, I'm Dimitrije Vuković 👋
+
+I’m a software developer from Novi Sad, Serbia, currently finishing my studies and actively looking for my first full-time software engineering role.
+
+I enjoy building products end-to-end - from infrastructure and data modeling to backend APIs, frontend experiences, and deployment automation.
+
 ---
-## Hi, I'm Dimitrije Vuković 👋
-Software developer from Novi Sad, Serbia, currently finishing my studies (a few exams left) and actively looking for my first full-time role.
-I enjoy building complete applications end-to-end - from infrastructure and databases, through backend and frontend, all the way to UI/UX polish, deployment, and automation.
-About me
-•	🎓 Student, close to graduation
-•	💼 Looking for my first Junior Software Engineer / .NET Developer role
-•	🧠 Building serious projects for the last 2 years
-•	🛠️ Best learning style: project-based (real problems, real solutions)
-•	🚀 Goal: become a strong, broad engineer first, then grow toward senior/lead direction with experience
-Tech interests
-•	Backend: .NET, C#
-•	Frontend: TypeScript, React
-•	Databases: SQL, NoSQL
-•	DevOps: CI/CD, deployment, automation
-•	Also working with: C/C++, Python
-What I like to build
-•	🌐 Web applications (primary focus)
-•	🖥️ Desktop applications (WPF, UI-heavy apps)
-•	📱 Interested in mobile development in the future
-Highlight projects
-Some projects I’m especially proud of:
-•	Quiz Platform - one of my key projects by overall scope
-•	Perfumery App - strong full-stack complexity
-•	Sopranos Characters CMS (WPF) - focused on advanced UI/UX styling and Figma-based design implementation
-You can find all of my projects on my GitHub profile.
-What I’m currently learning
-•	Advanced React patterns and libraries
-•	More advanced .NET libraries and practices
-•	System architecture, code quality, and performance optimization
-Connect with me
-•	LinkedIn: linkedin.com/in/dmtrin
+
+## 🚀 About Me
+
+- 🎓 Final-year student (a few exams left)
+- 💼 Open to **Junior .NET / Software Engineer** opportunities
+- 🧠 Building serious projects for ~2 years
+- 🛠️ Strong believer in learning by building real projects
+- 📈 Focused on writing clean, scalable, user-oriented software
+
+---
+
+## 🧩 Tech Focus
+
+### Backend
+- C# / .NET
+- REST APIs
+- Architecture and code quality improvements
+
+### Frontend
+- TypeScript
+- React
+- UI/UX implementation from Figma
+
+### Data & Infra
+- SQL and NoSQL databases
+- CI/CD and deployment
+- Automation and development workflows
+
+### Also Used
+- C / C++
+- Python
+
+---
+
+## 🌟 Highlight Projects
+
+- **Quiz Platform** - one of my key full-stack projects by scope and logic complexity
+- **Perfumery App** - strong full-stack implementation with layered architecture
+- **Sopranos Characters CMS (WPF)** - custom desktop CMS with advanced theming, role-based UX, and polished UI details
+
+> Most of my projects are available on my GitHub profile.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced React patterns and libraries
+- Advanced .NET ecosystem practices
+- System architecture, maintainability, and performance optimization
+
+---
+
+## 🎯 Career Direction
+
+My near-term goal is to become a highly reliable and broad software engineer.
+
+Long-term, I see myself growing toward senior-level engineering and potentially technical leadership once I gain enough production experience.
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn: [linkedin.com/in/dmtrin](https://www.linkedin.com/in/dmtrin/)
+
 ---
