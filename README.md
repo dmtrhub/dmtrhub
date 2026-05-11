@@ -6,17 +6,17 @@ I enjoy building products end-to-end - from infrastructure and data modeling to 
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Final-year student (a few exams left)
-- 💼 Open to **Junior .NET / Software Engineer** opportunities
-- 🧠 Building serious projects for ~2 years
-- 🛠️ Strong believer in learning by building real projects
-- 📈 Focused on writing clean, scalable, user-oriented software
+- Final-year student (a few exams left)
+- Open to **Junior .NET / Software Engineer** opportunities
+- Building serious projects for ~2 years
+- Strong believer in learning by building real projects
+- Focused on writing clean, scalable, user-oriented software
 
 ---
 
-## 🧩 Tech Focus
+## Tech Focus
 
 ### Backend
 - C# / .NET
@@ -39,7 +39,7 @@ I enjoy building products end-to-end - from infrastructure and data modeling to 
 
 ---
 
-## 🌟 Highlight Projects
+## Highlight Projects
 
 - **Quiz Platform** - one of my key full-stack projects by scope and logic complexity
 - **Perfumery App** - strong full-stack implementation with layered architecture
@@ -49,7 +49,7 @@ I enjoy building products end-to-end - from infrastructure and data modeling to 
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced React patterns and libraries
 - Advanced .NET ecosystem practices
@@ -57,7 +57,7 @@ I enjoy building products end-to-end - from infrastructure and data modeling to 
 
 ---
 
-## 🎯 Career Direction
+## Career Direction
 
 My near-term goal is to become a highly reliable and broad software engineer.
 
@@ -65,7 +65,7 @@ Long-term, I see myself growing toward senior-level engineering and potentially 
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 - LinkedIn: [linkedin.com/in/dmtrin](https://www.linkedin.com/in/dmtrin/)
 
